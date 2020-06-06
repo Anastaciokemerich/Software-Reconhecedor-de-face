@@ -7,7 +7,7 @@ Primeiramente, é importante dizer que você deve possuir algum interpretador py
 
 Após instalar o Anaconda em sua máquina, deve instalar também o pacote pillow e opencv..
 
-OpenCV: https://www.scivision.co/install-opencv-python-windows/
+OpenCV: https://www.scivision.co/install-opencv-python-windows 
 pillow: https://wp.stolaf.edu/it/installing-pil-pillow-cimage-on-windows-and-mac/
 
 Também é necessário que possua uma webcam em sua máquina.
@@ -29,10 +29,7 @@ ________________________________________________________________________________
 
 Detectar_Video.py: Este diretorio detecta rostos usando cascatas Haar. Funciona para com múltiplas faces.
 
-Captura_imagem_Gira.py: Ao executar este diretorio irá captar 50 imagens de uma pessoa infractora da câmara. Vai garantir que as fotos não são escuras e
-também fará com que o rosto fique direito girando se estiver enclinado.
-
-Free_Rotate.py: Este diretorio mostra a função rodar. Certifique-se que descomenta a linha 153 em NameFind.py Isto irá mostrar a imagem a corrigir o offset.
+Captura_imagem_Gira.py: Ao executar este diretorio irá captar 50 imagens de uma pessoa infractora da câmara. Vai garantir que as fotos não são escuras e também fará com que o rosto fique direito girando se estiver enclinado.
 
 NomeFi.py: Este diretorio contém todas as funções.
 
